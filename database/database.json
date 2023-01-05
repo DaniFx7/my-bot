@@ -1,0 +1,684 @@
+{
+  "users": {
+    "6285714627920@s.whatsapp.net": {
+      "healt": 100,
+      "level": 1,
+      "exp": 0,
+      "lastclaim": 0,
+      "lastclaim2": 0,
+      "lastngojek": 0,
+      "lastnebang": 0,
+      "lastnyampah": 0,
+      "lastowner": 0,
+      "money": 0,
+      "diamond": 0,
+      "iron": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 0,
+      "legendary": 0,
+      "pet": 0,
+      "potion": 0,
+      "sampah": 0,
+      "armor": 0,
+      "kucing": 0,
+      "kucinglastclaim": 0,
+      "kuda": 0,
+      "kudalastclaim": 0,
+      "rubah": 0,
+      "rubahlastclaim": 0,
+      "anjing": 0,
+      "anjinglastclaim": 0,
+      "naga": 0,
+      "nagalastclaim": 0,
+      "griffin": 0,
+      "griffinlastclaim": 0,
+      "centaur": 0,
+      "centaurlastclaim": 0,
+      "serigala": 0,
+      "serigalalastclaim": 0,
+      "phonix": 0,
+      "phonixlastclaim": 0,
+      "makanannaga": 0,
+      "makananphonix": 0,
+      "makanancentaur": 0,
+      "makananserigala": 0,
+      "area": 0,
+      "banned": false,
+      "warn": 0,
+      "warning": 0,
+      "lastIstigfar": 0,
+      "call": 0,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "anakkucing": 0,
+      "anakkuda": 0,
+      "anakrubah": 0,
+      "anakanjing": 0,
+      "makananpet": 0,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "kayu": 0,
+      "batu": 0,
+      "string": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "lastadventure": 0,
+      "lastdungeon": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthourly": 0,
+      "lasthunt": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "lastjb": 0,
+      "lastrob": 0,
+      "lastdaang": 0,
+      "lastgrab": 0,
+      "lastmerampok": 0,
+      "lastngocok": 0,
+      "lastturu": 0,
+      "lastseen": 0,
+      "lastSetStatus": 0,
+      "registered": false,
+      "apel": 20,
+      "mangga": 20,
+      "stroberi": 20,
+      "semangka": 20,
+      "jeruk": 20,
+      "name": "XFar",
+      "email": "",
+      "label": "",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "",
+      "autolevelup": false,
+      "pc": 0,
+      "as": 0,
+      "paus": 0,
+      "kepiting": 0,
+      "gurita": 0,
+      "cumi": 0,
+      "buntal": 0,
+      "dory": 0,
+      "lumba": 0,
+      "lobster": 0,
+      "hiu": 0,
+      "lele": 0,
+      "nila": 0,
+      "bawal": 0,
+      "udang": 0,
+      "ikan": 0,
+      "orca": 0,
+      "banteng": 0,
+      "harimau": 0,
+      "gajah": 0,
+      "kambing": 0,
+      "panda": 0,
+      "buaya": 0,
+      "kerbau": 0,
+      "sapi": 0,
+      "monyet": 0,
+      "babihutan": 0,
+      "babi": 0,
+      "ayam": 0,
+      "ayamb": 0,
+      "ayamg": 0,
+      "ssapi": 0,
+      "sapir": 0,
+      "leleb": 0,
+      "leleg": 0,
+      "esteh": 0,
+      "atm": 0,
+      "job": "Pengangguran",
+      "lastjob": 0,
+      "lastkerja": 0,
+      "ojek": false,
+      "pedagang": false,
+      "dokter": false,
+      "petani": false,
+      "montir": false,
+      "kuli": false,
+      "polisi": false,
+      "afkTime": -1,
+      "limit": "Infinity"
+    },
+    "6288212520579@s.whatsapp.net": {
+      "healt": 100,
+      "level": 1,
+      "exp": 0,
+      "lastclaim": 0,
+      "lastclaim2": 0,
+      "lastngojek": 0,
+      "lastnebang": 0,
+      "lastnyampah": 0,
+      "lastowner": 0,
+      "money": 0,
+      "diamond": 0,
+      "iron": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 0,
+      "legendary": 0,
+      "pet": 0,
+      "potion": 0,
+      "sampah": 0,
+      "armor": 0,
+      "kucing": 0,
+      "kucinglastclaim": 0,
+      "kuda": 0,
+      "kudalastclaim": 0,
+      "rubah": 0,
+      "rubahlastclaim": 0,
+      "anjing": 0,
+      "anjinglastclaim": 0,
+      "naga": 0,
+      "nagalastclaim": 0,
+      "griffin": 0,
+      "griffinlastclaim": 0,
+      "centaur": 0,
+      "centaurlastclaim": 0,
+      "serigala": 0,
+      "serigalalastclaim": 0,
+      "phonix": 0,
+      "phonixlastclaim": 0,
+      "makanannaga": 0,
+      "makananphonix": 0,
+      "makanancentaur": 0,
+      "makananserigala": 0,
+      "area": 0,
+      "banned": false,
+      "warn": 0,
+      "warning": 0,
+      "lastIstigfar": 0,
+      "call": 0,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "anakkucing": 0,
+      "anakkuda": 0,
+      "anakrubah": 0,
+      "anakanjing": 0,
+      "makananpet": 0,
+      "antispam": 0,
+      "antispamlastclaim": 0,
+      "kayu": 0,
+      "batu": 0,
+      "string": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "lastadventure": 0,
+      "lastdungeon": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthourly": 0,
+      "lasthunt": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "lastjb": 0,
+      "lastrob": 0,
+      "lastdaang": 0,
+      "lastgrab": 0,
+      "lastmerampok": 0,
+      "lastngocok": 0,
+      "lastturu": 0,
+      "lastseen": 0,
+      "lastSetStatus": 0,
+      "registered": false,
+      "apel": 20,
+      "mangga": 20,
+      "stroberi": 20,
+      "semangka": 20,
+      "jeruk": 20,
+      "name": "Hi",
+      "email": "",
+      "label": "",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "",
+      "autolevelup": false,
+      "pc": 0,
+      "as": 0,
+      "paus": 0,
+      "kepiting": 0,
+      "gurita": 0,
+      "cumi": 0,
+      "buntal": 0,
+      "dory": 0,
+      "lumba": 0,
+      "lobster": 0,
+      "hiu": 0,
+      "lele": 0,
+      "nila": 0,
+      "bawal": 0,
+      "udang": 0,
+      "ikan": 0,
+      "orca": 0,
+      "banteng": 0,
+      "harimau": 0,
+      "gajah": 0,
+      "kambing": 0,
+      "panda": 0,
+      "buaya": 0,
+      "kerbau": 0,
+      "sapi": 0,
+      "monyet": 0,
+      "babihutan": 0,
+      "babi": 0,
+      "ayam": 0,
+      "ayamb": 0,
+      "ayamg": 0,
+      "ssapi": 0,
+      "sapir": 0,
+      "leleb": 0,
+      "leleg": 0,
+      "esteh": 0,
+      "atm": 0,
+      "job": "Pengangguran",
+      "lastjob": 0,
+      "lastkerja": 0,
+      "ojek": false,
+      "pedagang": false,
+      "dokter": false,
+      "petani": false,
+      "montir": false,
+      "kuli": false,
+      "polisi": false,
+      "afkTime": -1,
+      "limit": "Infinity",
+      "ramuan": 0,
+      "psepick": 0,
+      "psenjata": 0,
+      "healthmonster": 0,
+      "anakserigala": 0,
+      "anaknaga": 0,
+      "anakphonix": 0,
+      "anakgriffin": 0,
+      "kyubi": 0,
+      "anakkyubi": 0,
+      "anakcentaur": 0,
+      "lastkill": 0,
+      "lastfishing": 0,
+      "lastwar": 0,
+      "lastsda": 0,
+      "lastberbru": 0,
+      "lastgift": 0,
+      "lastberkebon": 0,
+      "lastcodereg": 0,
+      "lastdagang": 0,
+      "lastbansos": 0,
+      "lastrampok": 0,
+      "anggur": 0,
+      "pisang": 0,
+      "botol": 0,
+      "kardus": 0,
+      "kaleng": 0,
+      "aqua": 0,
+      "emas": 0,
+      "arlok": 0,
+      "makanan": 0,
+      "bibitanggur": 0,
+      "bibitpisang": 0,
+      "bibitapel": 0,
+      "bibitmangga": 0,
+      "bibitjeruk": 0
+    }
+  },
+  "chats": {
+    "6285714627920@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilink4": false,
+      "antivirtex": false,
+      "antivirtex2": false,
+      "antivirtex3": false,
+      "antivirtex4": false,
+      "antivirtex5": false,
+      "antiwame": false,
+      "antionce": true,
+      "autosticker": false,
+      "antihidetag": false,
+      "autoblock": false,
+      "antitoxic": false,
+      "antibule": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "leveling": false,
+      "autorespon": false
+    },
+    "120363026660212830@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilink4": false,
+      "antivirtex": false,
+      "antivirtex2": false,
+      "antivirtex3": false,
+      "antivirtex4": false,
+      "antivirtex5": false,
+      "antiwame": false,
+      "antionce": true,
+      "autosticker": false,
+      "antihidetag": false,
+      "autoblock": false,
+      "antitoxic": false,
+      "antibule": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "leveling": false,
+      "autorespon": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "caklontong": [],
+    "tebakkalimat": [],
+    "tebaklirik": [],
+    "tebaktebakan": [],
+    "tebakkimia": [],
+    "asahotak": [],
+    "tebakbendera": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakanime": [],
+    "tebakwaifu": [],
+    "tebakaplikasi": [],
+    "tebakjenaka": []
+  },
+  "settings": {
+    "6288212520579@s.whatsapp.net": {
+      "anticall": true,
+      "status": 1672853619297,
+      "autobio": true,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  },
+  "others": {
+    "vote": [],
+    "commanduser": [
+      {
+        "jid": "6285714627920@s.whatsapp.net",
+        "db": [
+          {
+            "nama": "#menu",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "jid": "6288212520579@s.whatsapp.net",
+        "db": [
+          {
+            "nama": "#sendbuglokasi",
+            "count": 3
+          },
+          {
+            "nama": "#crash",
+            "count": 2
+          },
+          {
+            "nama": "#sendvirtex",
+            "count": 2
+          },
+          {
+            "nama": "#sendbug2",
+            "count": 2
+          },
+          {
+            "nama": "#sendbug",
+            "count": 2
+          },
+          {
+            "nama": "#dashboard",
+            "count": 1
+          },
+          {
+            "nama": "#pinterest",
+            "count": 1
+          },
+          {
+            "nama": "#sendbugkontak",
+            "count": 1
+          },
+          {
+            "nama": "#menu",
+            "count": 1
+          },
+          {
+            "nama": "#owner",
+            "count": 1
+          },
+          {
+            "nama": "#wangy",
+            "count": 1
+          },
+          {
+            "nama": "#ayataudio",
+            "count": 3
+          },
+          {
+            "nama": "#addlist",
+            "count": 2
+          },
+          {
+            "nama": "#item",
+            "count": 1
+          },
+          {
+            "nama": "#quotes",
+            "count": 1
+          },
+          {
+            "nama": "#magma",
+            "count": 1
+          },
+          {
+            "nama": "#tebakaplikasi",
+            "count": 1
+          },
+          {
+            "nama": "#tiktok",
+            "count": 1
+          },
+          {
+            "nama": "#profile",
+            "count": 1
+          },
+          {
+            "nama": "#inv",
+            "count": 1
+          },
+          {
+            "nama": "#tebakanime",
+            "count": 3
+          },
+          {
+            "nama": "#sfile",
+            "count": 1
+          },
+          {
+            "nama": "#ceritahoror",
+            "count": 1
+          },
+          {
+            "nama": "#google",
+            "count": 1
+          },
+          {
+            "nama": "#jadibot",
+            "count": 1
+          },
+          {
+            "nama": "#japan",
+            "count": 4
+          },
+          {
+            "nama": "#getcase",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "command": [
+      {
+        "nama": "#sendbuglokasi",
+        "count": 3
+      },
+      {
+        "nama": "#crash",
+        "count": 2
+      },
+      {
+        "nama": "#sendvirtex",
+        "count": 2
+      },
+      {
+        "nama": "#sendbug2",
+        "count": 2
+      },
+      {
+        "nama": "#sendbug",
+        "count": 2
+      },
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#pinterest",
+        "count": 1
+      },
+      {
+        "nama": "#sendbugkontak",
+        "count": 1
+      },
+      {
+        "nama": "#owner",
+        "count": 1
+      },
+      {
+        "nama": "#wangy",
+        "count": 1
+      },
+      {
+        "nama": "#ayataudio",
+        "count": 3
+      },
+      {
+        "nama": "#addlist",
+        "count": 2
+      },
+      {
+        "nama": "#item",
+        "count": 1
+      },
+      {
+        "nama": "#quotes",
+        "count": 1
+      },
+      {
+        "nama": "#magma",
+        "count": 1
+      },
+      {
+        "nama": "#tebakaplikasi",
+        "count": 1
+      },
+      {
+        "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#profile",
+        "count": 1
+      },
+      {
+        "nama": "#inv",
+        "count": 1
+      },
+      {
+        "nama": "#tebakanime",
+        "count": 3
+      },
+      {
+        "nama": "#sfile",
+        "count": 1
+      },
+      {
+        "nama": "#ceritahoror",
+        "count": 1
+      },
+      {
+        "nama": "#google",
+        "count": 1
+      },
+      {
+        "nama": "#jadibot",
+        "count": 1
+      },
+      {
+        "nama": "#japan",
+        "count": 4
+      },
+      {
+        "nama": "#getcase",
+        "count": 1
+      }
+    ],
+    "level": [],
+    "leveling": [],
+    "sewa": [],
+    "nsfw": [],
+    "respondblist": [
+      {
+        "id": "120363026660212830@g.us",
+        "key": "Dm Pubg",
+        "response": "kontol",
+        "isImage": false,
+        "image_url": "-"
+      }
+    ],
+    "respondb": [],
+    "belance": [],
+    "limit": [],
+    "glimit": [],
+    "ban": [],
+    "commandrespon": []
+  },
+  "sticker": {},
+  "anonymous": {}
+}

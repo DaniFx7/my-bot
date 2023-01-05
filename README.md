@@ -1,0 +1,1 @@
+Script Is Privasi
