@@ -21,7 +21,7 @@
   "author": "Dani",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys":  "^4.4.0",
+    "github:WhiskeySockets/Baileys": "7.0.0-rc.9",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "awesome-phonenumber": "^2.64.0",
